@@ -1,0 +1,11 @@
+h1 {text-align: center;}
+.alinear_text { display: flex;
+justify-content: center;
+}
+img {border-radius: 20%;}
+#Formulario{background-color: #c6c6c6;
+width: 400px;
+height: 270px;
+margin-left: 500px;
+}
+ul {color: green;}
